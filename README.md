@@ -1,6 +1,6 @@
 ## Olá eu sou a Luis Henrique Pinheiro, estudante de análise e desenvolvimento de sistemas!
 
-Atualmente estou estudando desdenvolvimento Backend utilizando Java através do projeto One Oracle next education, que é uma parceria da Alura com a Oracle, que oferece formação gratuita.
+Atualmente estou estudando desenvolvimento Backend utilizando Java através do projeto One Oracle next education, que é uma parceria da Alura com a Oracle, que oferece formação gratuita.
 Também estou cursando desenvolvimento de alicações com PHP no Senac, através do projeto Rio on.
 Possuo conheciemnto nas linguagens de programação Python, Java, JavaScript, PHP e C. Também possuo conhecimento de HTML, CSS e SQL.
 
