@@ -2,7 +2,7 @@
 
 Atualmente estou estudando Ciência de dados através do projeto One Oracle next education, que é uma parceria da Alura com a Oracle, que oferece formação gratuita.
 Concluiu um curso de desenvolvimento de aplicações com PHP no Senac, através do projeto Rio on.
-Possuo conheciemnto nas linguagens de programação Python, Java, JavaScript, PHP e C. Também possuo conhecimento de HTML, CSS e SQL.
+Possuo conhecimento nas linguagens de programação Python, Java, JavaScript, PHP e C. Também possuo conhecimento de HTML, CSS e SQL.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
@@ -16,7 +16,7 @@ Possuo conheciemnto nas linguagens de programação Python, Java, JavaScript, PH
 </div>
   </br>
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirito-hn&theme=prussian&show_icons=true)
+ ![Anurag's GitHub stats]![Metrics](./assets/metrics.svg))
   </br>
   
  [![Principais idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=kirito-hn&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
