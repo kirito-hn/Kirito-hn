@@ -15,16 +15,18 @@ Possuo conhecimento nas linguagens de programação Python, Java, JavaScript, PH
 
 </div>
   </br>
+
+  <div> 
+
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/luis-hnp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
   
 ![Metrics](./assets/metrics.svg))
   </br>
   
 
  
-<div> 
-
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/luis-hnp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
 
 
