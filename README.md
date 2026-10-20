@@ -1,4 +1,4 @@
-## Olá eu sou Luis Henrique Nunes Pinheiro, Bacharel em Ciências da Computação!
+## Olá, eu sou Luis Henrique Nunes Pinheiro, Bacharel em Ciências da Computação!
 
 Atualmente estou estudando desenvolvimento FullStack pelo Recode.
 Possuo conhecimento nas linguagens de programação Python, Java, JavaScript, PHP e C. Também possuo conhecimento de HTML, CSS e SQL.
